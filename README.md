@@ -1,1 +1,1 @@
-# Botvendasdisc.
+CONFIGURE OS EMOJIS DE EMOJIS.JSON 
